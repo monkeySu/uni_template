@@ -1,5 +1,9 @@
 <script>
+	import pageAnimation from './components/page-animation'
+
 	export default {
+		mixins: [pageAnimation],
+
 		onLaunch: function() {
 			console.log('App Launch')
 		},
@@ -8,7 +12,9 @@
 		},
 		onHide: function() {
 			console.log('App Hide')
-		}
+		},
+
+		globalData: {}
 	}
 </script>
 
