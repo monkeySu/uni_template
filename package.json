@@ -27,6 +27,7 @@
     "@dcloudio/uni-app-plus": "^2.0.0-30420201231001",
     "@dcloudio/uni-h5": "^2.0.0-30420201231001",
     "@dcloudio/uni-helper-json": "^1.0.9",
+    "@dcloudio/uni-migration": "^2.0.0-30420201231001",
     "@dcloudio/uni-mp-alipay": "^2.0.0-30420201231001",
     "@dcloudio/uni-mp-baidu": "^2.0.0-30420201231001",
     "@dcloudio/uni-mp-qq": "^2.0.0-30420201231001",
@@ -35,6 +36,8 @@
     "@dcloudio/uni-stat": "^2.0.0-30420201231001",
     "dayjs": "^1.10.2",
     "flyio": "^0.6.2",
+    "less": "^4.0.0",
+    "less-loader": "^7.2.1",
     "regenerator-runtime": "^0.12.1",
     "vue": "^2.6.12",
     "vuex": "^3.6.0"
